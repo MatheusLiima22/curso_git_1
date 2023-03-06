@@ -1,4 +1,1 @@
-Estou
-realizando
-um teste
-no curso
+Testando atualização do clone
